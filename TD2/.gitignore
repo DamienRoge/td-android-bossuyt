@@ -11,3 +11,4 @@ target/
 /build
 /captures
 .externalNativeBuild
+gradle

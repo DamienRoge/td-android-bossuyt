@@ -14,7 +14,7 @@ import android.widget.SpinnerAdapter;
  */
 public class ImageAdapter extends BaseAdapter {
 
-    int mGalleryItemBackground;
+    private int mGalleryItemBackground;
     private Context mContext;
     private Integer[] mImageIds = {
             R.drawable.donut,

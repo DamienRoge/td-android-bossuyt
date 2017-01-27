@@ -2,6 +2,7 @@ package com.example.zvxj3723.td2;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.NumberPicker;
 import android.widget.TextView;
 
@@ -11,7 +12,7 @@ import org.w3c.dom.Text;
  * Created by ZVXJ3723 on 24/01/2017.
  */
 
-public class NumbPicker extends Activity {
+public class NumbPicker extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

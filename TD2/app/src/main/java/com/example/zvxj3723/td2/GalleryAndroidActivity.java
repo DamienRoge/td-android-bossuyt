@@ -2,12 +2,13 @@ package com.example.zvxj3723.td2;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.Gallery;
 import android.widget.Toast;
 
-public class GalleryAndroidActivity extends Activity {
+public class GalleryAndroidActivity extends AppCompatActivity {
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
